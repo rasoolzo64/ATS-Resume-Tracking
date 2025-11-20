@@ -8,7 +8,7 @@ A powerful AI-powered resume analysis tool that helps job seekers optimize their
 
 ## 🌟 Live Demo
 
-🚀 **Try it now:** [ATS Resume Expert Pro](https://resume-tracking-sakethlingerker.streamlit.app/)
+🚀 **Try it now:** [ATS Resume Expert Pro](https://ats-resume-tracking-rasoolmohammad.streamlit.app/)
 
 ## 📸 Features
 
