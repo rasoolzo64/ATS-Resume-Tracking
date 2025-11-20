@@ -43,8 +43,8 @@ A powerful AI-powered resume analysis tool that helps job seekers optimize their
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/sakethlingerker/Resume-Tracking
-cd Resume-Tracking
+git clone https://github.com/rasoolzo64/ARS-Resume-Tracking
+cd ARS-Resume-Tracking
 
 # Install dependencies
 pip install -r requirements.txt
